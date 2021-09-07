@@ -1,0 +1,44 @@
+body{
+    background-image:linear-gradient(to left, #e70f21, #f0500d, #f57800, #f69b00, #f3bc00, #f8af00, #fca200, #ff9505, #ff4f3f, #f2006f, #b4009f, #1e2cbe);
+    color: rgb(17, 0, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    width: 50%;
+    margin: auto;
+    
+}
+h1{
+    text-align: center;
+    color: #081079;
+}
+input label{
+    display: block;
+    width: 50%;
+    margin: 0.5rem;
+    padding: 1rem;
+    font-size: 1rem;
+
+
+}
+button{
+    display: block;
+    width:50vh;
+    margin: 20px auto;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(to bottom, #e5e51b, #c6e700, #a2e900, #73ea00, #12eb12);
+    background-color: cornsilk;
+    font-size: 1rem;
+    color: #b40027;
+}
+#output-box{
+    color: crimson;
+    font-size: 15px;
+    font-family: cursive;
+    text-align: center;
+    padding: 1rem;
+    font-weight: 20;
+
+}
