@@ -1,3 +1,3 @@
 ## Birthday-Lucky_Number
-Check your Birth date if it is lucky !!
+Check if your Birth date is lucky !!
 Check it out --> [Birthday](https://birthday-lucky-number.netlify.app/)
